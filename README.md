@@ -1,4 +1,4 @@
-### 勾三股四弦五小六
+### G3G4X5X6
 - 👋 Hi, I’m @G3G4X5X6
 - 👀 I’m interested in cyber security
 - 🌱 I’m currently learning ...
