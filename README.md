@@ -3,6 +3,8 @@
 - 📫 How to reach me?
   - g3g4x5x6@foxmail.com
 
+---
+
 [![G3G4X5X6's GitHub stats](https://github-readme-stats.vercel.app/api?username=G3G4X5X6)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
