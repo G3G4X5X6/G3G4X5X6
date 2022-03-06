@@ -1,6 +1,8 @@
 <p align="center">
-  <img width="600" src="https://user-images.githubusercontent.com/87740076/156732598-f6b10501-3125-4e9c-af76-ecbdecb9b2e8.jpg" alt="G3G4X5X6"/>
+  <img src="https://user-images.githubusercontent.com/87740076/156927413-741f8725-91ba-44ea-9586-df4716caf162.png" alt="G3G4X5X6"/>
 </p>
+
+<!-- ![gg](https://user-images.githubusercontent.com/87740076/156927413-741f8725-91ba-44ea-9586-df4716caf162.png) -->
 
 ---
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=G3G4X5X6" />
