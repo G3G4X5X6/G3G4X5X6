@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/87740076/156927413-741f8725-91ba-44ea-9586-df4716caf162.png" alt="G3G4X5X6"/>
+  <img src="https://user-images.githubusercontent.com/87740076/157384425-d055bc74-2cda-4c07-b853-43230e3bb5aa.jpg" alt="G3G4X5X6"/>
 </p>
 
+<!-- ![dragoncat](https://user-images.githubusercontent.com/87740076/157384425-d055bc74-2cda-4c07-b853-43230e3bb5aa.jpg) -->
 <!-- ![gg](https://user-images.githubusercontent.com/87740076/156927413-741f8725-91ba-44ea-9586-df4716caf162.png) -->
 
 ---
