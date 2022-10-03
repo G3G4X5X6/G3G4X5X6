@@ -1,12 +1,4 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/87740076/157384633-7bd0c8fc-d17a-4765-9919-01c1bd6924a6.jpg" alt="G3G4X5X6"/>
-</p>
-<!-- ![GitHub](https://user-images.githubusercontent.com/87740076/157384633-7bd0c8fc-d17a-4765-9919-01c1bd6924a6.jpg) -->
-<!-- ![eye](https://user-images.githubusercontent.com/87740076/157384527-cff55389-f678-4bc8-b120-f4299130d690.png) -->
-<!-- ![dragoncat](https://user-images.githubusercontent.com/87740076/157384425-d055bc74-2cda-4c07-b853-43230e3bb5aa.jpg) -->
-<!-- ![gg](https://user-images.githubusercontent.com/87740076/156927413-741f8725-91ba-44ea-9586-df4716caf162.png) -->
 
----
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=G3G4X5X6" />
 
 ### 🍻Welcome to my Cyberspace
