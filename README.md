@@ -3,6 +3,8 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=G3G4X5X6&theme=panda)](https://git.io/streak-stats)
 
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=G3G4X5X6&bg_color=2e292e&color=f5008f&line=4c9e74&point=096390&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ### 🍻Welcome to my Cyber-Space
 - 👋 ID: G3G4X5X6 (勾三股四弦五小六)
 - 📫 How to reach me?
