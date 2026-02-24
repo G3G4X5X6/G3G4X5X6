@@ -6,4 +6,4 @@
 <hr>
 
 
-![G3G4X5X6's GitHub stats](https://github-readme-stats.vercel.app/api?username=G3G4X5X6&show_icons=true&theme=dracula)
+<img width="600" height="600" alt="certified-information-systems-security-professional-cissp" src="https://github.com/user-attachments/assets/356dea10-f458-40e8-a352-fb3fe5653bad" />
